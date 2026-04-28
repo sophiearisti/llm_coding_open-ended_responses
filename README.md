@@ -1,2 +1,5 @@
 # LLM_Coding_open-ended_responses
 In this repository you will be able to find ...
+
+## Dependencies instalation 
+pip install -r requirements.txt
