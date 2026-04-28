@@ -10,3 +10,5 @@ pip install -r requirements.txt
 ## API key
 
 
+## Results folder
+
