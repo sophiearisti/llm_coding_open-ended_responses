@@ -46,7 +46,23 @@ When you are finished working, simply run:
 
 
 ## Dependencies instalation 
-pip install -r requirements.txt
+After activating your virtual environment, install the required libraries using the following command:
+    pip install -r requirements.txt
+
+### 📦 Environment Libraries
+
+The following libraries and specific versions will be installed in your virtual environment:
+
+| Library | Version | Description |
+| :--- | :--- | :--- |
+| `streamlit` | 1.56.0 | Web framework for data apps |
+| `pandas` | 3.0.1 | Data manipulation and analysis |
+| `langchain-openai` | 1.1.10 | LangChain integration for OpenAI models |
+| `google-genai` | 1.64.0 | Google Generative AI Python SDK |
+| `tqdm` | 4.67.3 | Progress bar utility |
+| `python-dotenv` | 1.2.1 | Environment variable management |
+| `anthropic` | 0.96.0 | Anthropic API Python SDK |
+| `openai` | 2.24.0 | OpenAI API Python SDK |
 
 ## Run the tool
 
