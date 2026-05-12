@@ -7,7 +7,13 @@ Coding open-ended responses with large language models: Evidence from three econ
 
 In this repository you will be able to find the code and folders needed to run the tool created for the classification of any XXXX. Although it was used in the paper, any researcher can use this for a similar task. 
 
-## Get the code
+## Abstract
+
+# Steb-by-step
+
+![Framework description](your-image-name.png)
+
+## Get The Code
 
 You can download a copy of all the files in this repository by cloning the
 [git](https://git-scm.com/) repository:
@@ -16,7 +22,7 @@ You can download a copy of all the files in this repository by cloning the
 
 or [download a zip archive](https://github.com/sophiearisti/LLM_Coding_open-ended_responses/archive/refs/heads/main.zip).
 
-## create a virtual environment
+## Create a Virtual Environment
 
 You'll need a working Python environment to run the code.
 
@@ -45,11 +51,9 @@ When you are finished working, simply run:
     deactivate
 
 
-## Dependencies instalation 
+## Dependencies Instalation 
 After activating your virtual environment, install the required libraries using the following command:
     pip install -r requirements.txt
-
-### 📦 Environment Libraries
 
 The following libraries and specific versions will be installed in your virtual environment:
 
@@ -65,6 +69,13 @@ The following libraries and specific versions will be installed in your virtual 
 | `openai` | 2.24.0 | OpenAI API Python SDK |
 
 ## Run the tool
+
+Now that all is set, you can run the tool by entering:
+    streamlit run v.py
+
+Once you run the command, Streamlit will automatically open a new tab in your default browser. If it doesn't, you can access the application manually at the following address:
+
+**Local URL:** `http://localhost:8501`
 
 
 ## API key
