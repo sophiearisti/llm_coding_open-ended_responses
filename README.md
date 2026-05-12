@@ -24,8 +24,7 @@ The recommended way to set up your environment is:
 
 Open your terminal or command prompt, navigate to your project folder, and run:
 
-```bash
-python -m venv venv
+    python -m venv venv
 
 Creating the folder is not enough; you must "enter" the environment to use its isolated Python and Pip. Use the command corresponding to your Operating System:
 
