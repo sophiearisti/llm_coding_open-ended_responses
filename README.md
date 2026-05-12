@@ -32,9 +32,9 @@ To use the isolated Python and Pip, you must activate the environment. Choose th
 
 | Operating System | Command to Activate |
 | :--- | :--- |
-| **Windows (Command Prompt)** | `venv\Scripts\activate`[cite: 1, 2] |
-| **Windows (PowerShell)** | `.\venv\Scripts\Activate.ps1`[cite: 1, 2] |
-| **macOS / Linux** | `source venv/bin/activate`[cite: 1, 2] |
+| **Windows (Command Prompt)** |     `venv\Scripts\activate` |
+| **Windows (PowerShell)** |     `.\venv\Scripts\Activate.ps1`|
+| **macOS / Linux** |     `source venv/bin/activate`
 
 > [!TIP]
 > Activation is successful if you see `(venv)` appear at the start of your command prompt line[cite: 1, 2].
