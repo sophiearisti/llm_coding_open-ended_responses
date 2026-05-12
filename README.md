@@ -53,6 +53,7 @@ When you are finished working, simply run:
 
 ## Dependencies Instalation 
 After activating your virtual environment, install the required libraries using the following command:
+   
     pip install -r requirements.txt
 
 The following libraries and specific versions will be installed in your virtual environment:
@@ -71,15 +72,23 @@ The following libraries and specific versions will be installed in your virtual 
 ## Run the tool
 
 Now that all is set, you can run the tool by entering:
+    
     streamlit run v.py
 
 Once you run the command, Streamlit will automatically open a new tab in your default browser. If it doesn't, you can access the application manually at the following address:
 
 **Local URL:** `http://localhost:8501`
 
-
 ## API key
 
 
 ## Results folder
+
+
+## How to use the tool
+
+# Contact
+
+
+# License
 
