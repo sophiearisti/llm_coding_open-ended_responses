@@ -37,7 +37,12 @@ To use the isolated Python and Pip, you must activate the environment. Choose th
 | **macOS / Linux** |     `source venv/bin/activate`
 
 > [!TIP]
-> Activation is successful if you see `(venv)` appear at the start of your command prompt line[cite: 1, 2].
+> Activation is successful if you see `(venv)` appear at the start of your command prompt.
+
+
+When you are finished working, simply run:
+
+    deactivate
 
 
 ## Dependencies instalation 
