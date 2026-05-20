@@ -90,5 +90,20 @@ Once you run the command, Streamlit will automatically open a new tab in your de
 # Contact
 
 
-# License
+## License
 
+
+
+## Citation
+
+<!--
+[You are ethically obliged to cite specialist software used to create research outputs.](https://peerj.com/articles/cs-86/) Please cite the following paper:
+
+```bibtex
+ @unpublished{uproot,
+  author = {Grossmann, Max~R.~P. and Gerhardt, Holger},
+  title = {uproot: A Software Framework for Behavioral Experiments},
+  year = {2026},
+  note = {Unpublished manuscript}
+}
+-->
