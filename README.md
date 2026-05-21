@@ -87,8 +87,11 @@ Once you run the command, Streamlit will automatically open a new tab in your de
 
 ## How to use the tool
 
-# Contact
+## Contact
 
+For questions or feedback, please contact:
+
+- **Daniel Parra** — [daniel.parra.carreno@gmail.com](mailto:daniel.parra.carreno@gmail.com)
 
 ## License
 
