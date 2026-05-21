@@ -92,18 +92,31 @@ Once you run the command, Streamlit will automatically open a new tab in your de
 
 ## License
 
+Copyright (C) 2026 Daniel Parra and Sophia Aristizabal
 
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 ## Citation
 
-<!--
 [You are ethically obliged to cite specialist software used to create research outputs.](https://peerj.com/articles/cs-86/) Please cite the following paper:
-
 ```bibtex
- @unpublished{uproot,
-  author = {Grossmann, Max~R.~P. and Gerhardt, Holger},
-  title = {uproot: A Software Framework for Behavioral Experiments},
-  year = {2026},
-  note = {Unpublished manuscript}
+@unpublished{parra_aristizabal_2026,
+  author  = {Parra, Daniel and Aristizabal, Sophia},
+  title   = {Coding open-ended responses with large language models: Evidence from three economic experiments},
+  year    = {2026},
+  month   = {5},
+  note    = {Available at SSRN: \url{https://ssrn.com/abstract=6805398}},
 }
--->
+` ` `
+```
