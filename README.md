@@ -119,4 +119,3 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
   note    = {Available at SSRN: \url{https://ssrn.com/abstract=6805398}},
 }
 ` ` `
-```
