@@ -80,6 +80,12 @@ Once you run the command, Streamlit will automatically open a new tab in your de
 **Local URL:** `http://localhost:8501`
 
 ## API key
+[Claude API](https://platform.claude.com/docs/en/api/admin/api_keys/retrieve)
+
+[Gemini API](https://ai.google.dev/gemini-api/docs/api-key?utm_source=google&utm_medium=cpc&utm_campaign=Cloud-SS-DR-AIS-FY26-global-gsem-1713578&utm_content=text-ad&utm_term=KW_gemini%20key&gad_source=1&gad_campaignid=23417416052&gbraid=0AAAAACn9t67ubGh6PZBN0Y6CIBQ-bhHbR&gclid=CjwKCAjwt7XQBhBkEiwAtStpp3lshNiXZ3F2UckRWVlRh_Cb2RmRcPpMkjKP1v_RhdbKGmrI3FytChoC3DIQAvD_BwE)
+
+[Chat GPT API](https://help.openai.com/en/articles/4936850-where-do-i-find-my-openai-api-key)
+
 
 
 ## Results folder
